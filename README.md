@@ -119,7 +119,3 @@ react-native run-android
 | `info3` | string | No | More information of member. | `info3="Beaches, Mountain & Coffee"`|
 | `info4` | string | No | More information of member. | `info4="Last seen: 23h ago"`|
 
-
-## Star, Fork, Clone & Contribute
-
-Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
